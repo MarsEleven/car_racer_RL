@@ -4,7 +4,7 @@ atari-py==0.2.6
 box2d-kengz==2.3.3
 carla==0.9.6
 -e git+https://github.com/X3N4/carla_rl.git@9dd8f8f705b6d8e4497986da81a810120cd2ddd6#egg=carla_rllib&subdirectory=carla_rllib
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.11.5
 cloudpickle==1.2.2
 cycler==0.10.0
@@ -49,7 +49,7 @@ Werkzeug==0.16.0
 wrapt==1.11.2
 blas==1.0
 ca-certificates==2019.8.28
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.11.5
 cudatoolkit==10.1.168
 freetype==2.9.1
